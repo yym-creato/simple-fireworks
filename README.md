@@ -1,2 +1,3 @@
 # simple-fireworks
-simple fireworks implemented wirh C++ and EasyX 
+Simple fireworks implemented wirh C++ and EasyX 
+
